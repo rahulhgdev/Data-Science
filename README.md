@@ -13,3 +13,6 @@ Data science is an inter-disciplinary field that uses scientific methods, proces
 
 ![matplotlib-tutorial](https://user-images.githubusercontent.com/67586773/106614279-22984580-6591-11eb-963a-47c1c764bfe0.png)
 
+## Seaborn
+
+![seaborn1](https://user-images.githubusercontent.com/67586773/106614255-1a400a80-6591-11eb-8e7a-cf272b26d8e5.png)
